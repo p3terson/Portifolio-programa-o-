@@ -1,0 +1,7 @@
+C:\Users\jogos\PetersonCalculadora\CalculadoraPeterson\bin\Debug\CalculadoraPeterson.exe.config
+C:\Users\jogos\PetersonCalculadora\CalculadoraPeterson\bin\Debug\CalculadoraPeterson.exe
+C:\Users\jogos\PetersonCalculadora\CalculadoraPeterson\bin\Debug\CalculadoraPeterson.pdb
+C:\Users\jogos\PetersonCalculadora\CalculadoraPeterson\obj\Debug\CalculadoraPeterson.csproj.AssemblyReference.cache
+C:\Users\jogos\PetersonCalculadora\CalculadoraPeterson\obj\Debug\CalculadoraPeterson.csproj.CoreCompileInputs.cache
+C:\Users\jogos\PetersonCalculadora\CalculadoraPeterson\obj\Debug\CalculadoraPeterson.exe
+C:\Users\jogos\PetersonCalculadora\CalculadoraPeterson\obj\Debug\CalculadoraPeterson.pdb
